@@ -1,0 +1,3 @@
+This mission framework is heavily based on the F3 framework (http://ferstaberinde.com/f3/en//index.php?title=Main_Page),
+All credits go to them for most of the features used.
+Customization by Jack Grolsch intended for personal and group use.
