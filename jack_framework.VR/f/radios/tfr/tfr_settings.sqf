@@ -15,17 +15,5 @@ tf_same_lr_frequencies_for_side = true;
 
 // Whether any radios should be assigned at all, to any units
 // TRUE = Disable radios for all units
-f_radios_settings_tfr_disableRadios = FALSE;
+f_radios_settings_tfr_disableRadios = true;
 
-// Which units should be given LR backpacks
-// TRUE = all group leaders get backpacks
-// FALSE = only units defined in next variable will get LR backpacks
-f_radios_settings_tfr_defaultLRBackpacks = FALSE;
-
-// Unit types you want to give long-range radios if previous is
-// E.G: ["co", "m"] would give the CO and all medics 2 long-range radios
-f_radios_settings_tfr_backpackRadios = ["co","dc","ftl","sp"];
-
-// Independent radio encryption code: Independent faction use radio code of side 
-// they are friendly to if they are only friendly to one side.
-f_radios_settings_tfr_indepUseRadioCode = FALSE;
